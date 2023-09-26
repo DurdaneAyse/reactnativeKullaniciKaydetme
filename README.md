@@ -1,2 +1,3 @@
-# reactnativeKullaniciKaydetme
- ilk react-native projem
+Merhabalar. İlk defa react-native ile bir proje geliştirdim. Zaman sorunum olduğu için çok gelişmiş bir uygulama yazamadım. Çünkü  5 gün içerisinde hem react-native hakkında temel bilgileri öğrenmem hem de bir mobil uygulama geliştirmem gerekiyordu. Bende iş yoğunluğundan fırsat buldukça elimden geldiği kadarını eklemeye çalıştım. Proje de var olan eksikliklerin farkındayım. En kısa sürede onları da tamamlayıp daha elverişli bir proje haline getirmeye çalışacağım. 
+
+--->>npm install --legacy-peer-deps ile projeyi kurup npm start ile de başlatabilir ve expo go uygulamasından QR kod okutarak projeye erişebilirsiniz 
